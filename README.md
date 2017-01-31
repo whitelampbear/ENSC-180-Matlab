@@ -1,2 +1,3 @@
 # ENSC-180-Matlab
-Assignments 
+
+Assignment 1: plot shit 
